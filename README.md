@@ -72,12 +72,32 @@ WHERE name = 'Sketch';
 ```
 
 B3)
+a)
+```sql
+INSERT INTO licenses (user_id, software_name, access_code)
+VALUES
+ ('MS Word', '2020', 'abc123'),
+ ('Chrome', 'v92', 'hij789'),
+ ('Sketch', '52', 'x2y3z4');
+INSERT INTO softwares (name, version, released_date)
+VALUES
+ ('MS Word', '2020', '2019-06-15'),
+ ('Chrome', 'v92', '2020-01-01'),
+ ('Sketch', '52', '2020-02-11');
+ 
+ALTER TABLE licenses
+ADD version varchar(100),
+PRIMARY KEY (version);
+```
+
 d)
 ```sql
-SELECT users, licenses
-FROM users
-INNER JOIN licenses
-ON users.id = licenses.software_name;
+INSERT INTO softwares (name, version, released_date)
+VALUES
+ ('Sketch', '52', '2021-01-20')
+SELECT user_id FROM licenses WHERE software_name = "Sketch"
+INSERT INTO users
+
 ```
 
 
