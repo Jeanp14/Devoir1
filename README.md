@@ -86,7 +86,7 @@ VALUES
  ('Sketch', '52', '2020-02-11');
  
 ALTER TABLE licenses
-ADD version varchar(100),
+ADD version varchar(100)
 PRIMARY KEY (version);
 ```
 
@@ -99,21 +99,6 @@ SELECT user_id FROM licenses WHERE software_name = "Sketch"
 INSERT INTO users
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
