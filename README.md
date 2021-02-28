@@ -87,7 +87,7 @@ VALUES
  
 ALTER TABLE licenses
 ADD version varchar(100)
-PRIMARY KEY (version);
+PRIMARY KEY(version);
 ```
 
 d)
