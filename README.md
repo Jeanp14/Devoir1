@@ -9,6 +9,7 @@ b)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?r
 c)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 A2)
+https://github.com/Jeanp14/Devoir1/blob/main/A2.png
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 A3)
