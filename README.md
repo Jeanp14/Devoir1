@@ -4,13 +4,16 @@
 A1)
 a)
 ![q1](https://user-images.githubusercontent.com/43187263/109407483-1e243a00-794f-11eb-9f9e-769d74617260.png)
-b)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
-c)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+b)
+![q2](https://user-images.githubusercontent.com/43187263/109407542-a99dcb00-794f-11eb-975b-6902b15ba442.png)
+
+c)
+![q3](https://user-images.githubusercontent.com/43187263/109407555-bd493180-794f-11eb-8b21-a5748bba8f79.png)
 
 A2)
-https://github.com/Jeanp14/Devoir1/blob/main/A2.png
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![A2](https://user-images.githubusercontent.com/43187263/109407531-97239180-794f-11eb-9a5c-10245d8afed5.png)
+
 
 A3)
 
@@ -50,6 +53,12 @@ hayden | 1
 
 B2)
 a)
+```sql
+SELECT name,
+join_date
+FROM users
+WHERE join_date < '2020-01-01';
+```
 
 b)
 
@@ -62,8 +71,14 @@ SET version = '51', released_date = '2020-01-01'
 WHERE name = 'Sketch';
 ```
 
-
-
+B3)
+d)
+```sql
+SELECT users, licenses
+FROM users
+INNER JOIN licenses
+ON users.id = licenses.software_name;
+```
 
 
 
