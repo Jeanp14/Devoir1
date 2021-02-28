@@ -1,8 +1,15 @@
 # Devoir1
 
 A1)
+a)
+![alt text](https://github.com/Jeanp14/Devoir1/blob/main/q1.jpg?raw=true)
+
+b)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+c)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 A2)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 A3)
 
