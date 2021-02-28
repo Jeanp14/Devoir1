@@ -1,9 +1,9 @@
+
 # Devoir1
 
 A1)
 a)
-![alt text](https://github.com/Jeanp14/Devoir1/blob/main/q1.jpg?raw=true)
-
+![q1](https://user-images.githubusercontent.com/43187263/109407483-1e243a00-794f-11eb-9f9e-769d74617260.png)
 b)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 c)![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
