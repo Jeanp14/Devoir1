@@ -1,5 +1,11 @@
 # Devoir1
 
+A1)
+
+A2)
+
+A3)
+
 
 B1)
 a)
@@ -33,4 +39,38 @@ et on obtient:
 name   | num
 ------------ | -------------
 hayden | 1
+
+B2)
+a)
+
+b)
+
+c)
+
+d)
+```sql
+UPDATE softwares
+SET version = '51', released_date = '2020-01-01'
+WHERE name = 'Sketch';
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
